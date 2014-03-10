@@ -1,7 +1,10 @@
 code-of-behavior
 ================
 
-This is the code of behavior of me at the time codes modified.
+The english version will be added later.
+
+行動基準
+=======
 
 ## 常に技術力の向上を意識して判断する
 
