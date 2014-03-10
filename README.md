@@ -1,4 +1,4 @@
-code-of-behavior
+Code of behavior
 ================
 
 The english version will be added later.
